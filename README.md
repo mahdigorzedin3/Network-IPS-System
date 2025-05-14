@@ -154,7 +154,7 @@ Logs are saved to `log.txt` and include:
 The script is designed for **LAN or AP mode** networks where traffic can be monitored on `wlan0`. If you want to use it in other networks, you can change the desired interface.
 
 ---
-Ahmad Hamidi wrote a complete report of this project for beginners in both English and the Persian language, that are in the Report folder. 
+Ahmadsiar Hamidi wrote a complete report of this project for beginners in both English and the Persian language, that are in the Report folder. 
 If you have any problems or questions, contact us :
 mahdigorzdin@gmail.com
 sajad.ssthm.k@gmail.com
