@@ -89,7 +89,7 @@ The Raspberry Pi is configured as a wireless access point. Devices connect to th
 
 1. **Connect Raspberry Pi to the internet via Ethernet**
     
-2. **Enable AP mode on `wlan0` with running automate.py** to act as a hotspot (e.g., using `hostapd` and `dnsmasq`. If you are stuck in this step, email us.)
+2. **Enable AP mode on `wlan0` with running automate.sh** to act as a hotspot (e.g., using `hostapd` and `dnsmasq`. If you are stuck in this step, email us.)
     
 3. Clone this repository:
     
